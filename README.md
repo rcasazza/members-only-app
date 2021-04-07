@@ -1,4 +1,3 @@
-### Front End Template
+### Members Only App
 
-- react-router-dom
-- proxy
+
